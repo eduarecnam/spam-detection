@@ -16,4 +16,5 @@ This techniques have been tested against the datasets you can see next:
 - **spam_ham_dataset:** This dataset is a subset of Enron's dataset. It's a .CSV file which has 4 columns to make easier the use of this dataset. This file has been created by *Venkatesh Garnepudi*. This file can be downloaded from: https://www.kaggle.com/venky73/spam-mails-dataset/download
 
 - **Spamassasin dataset:** This dataset it's been divided into spam/legit email of easy and hard detection. It contains 6047 emails, with 31% of spam emails, all of the emails keep their headers and some of the addresses have been offuscated, some of the hostnames have been replaced by the string spamassasin.taint.org. This dataset can be downloaded from https://spamassassin.apache.org/old/publiccorpus/
-- 
+
+- **Spambase dataset:** Created by *Mark Hopkins, Erik Reeber, George Forma, Jaap Suermondt at Hewlett-Packard Labs, 1501 Page Mill Rd. Palo Alto, CA 94304*. The emails you'll find on this dataset come from the email admininistrator and from people who'd sent non-legit emails. By other hand, legit emails come from personal emails and working emails. This dataset can be downloaded from: https://archive.ics.uci.edu/ml/datasets/spambase
