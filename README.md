@@ -10,7 +10,7 @@ This project is focused on the study of Machine Learning techniques for spam det
 
 # Clarifications
 
-- *This project it's been structured so that every folder is a different dataset, the treatment and strategies followed are the same for every dataset though.*
+- *This project it's been structured so that every folder is a different dataset and every dataset got its own treatment, which might be similar to other datasets though, there are always something different among them*
 - *Due to its good documentation and extended use, the scikit-learn library implementation, it's been chosen one for carrying out all of the models creation.*
 
 # Datasets
