@@ -5,7 +5,7 @@ This project is focused on the study of Machine Learning techniques for spam det
 - KNN
 - SVM 
 - Logistic Regression 
-- Decision Tree 
+- Decision Trees 
 - Random Forest
 
 # Clarifications
