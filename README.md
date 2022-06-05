@@ -29,7 +29,7 @@ These techniques have been tested against the dataset whose description you can 
 
 # Biblioraphy
 
-On this section you'll find all of the resources which have made possible this project. That's why I'd like to leverage this section to thank all them
+On this section you'll find all of the sources which have made possible this project. That's why I'd like to leverage this section to thank all them
 
 - *email spam detection:* https://www.youtube.com/watch?v=cNLPt02RwF0
 - *Missing values strategies:* https://www.kaggle.com/code/alexisbcook/missing-values/tutorial
