@@ -27,7 +27,7 @@ These techniques have been tested against the dataset whose description you can 
 
 - **Spambase dataset:** Created by *Mark Hopkins, Erik Reeber, George Forma, Jaap Suermondt at Hewlett-Packard Labs, 1501 Page Mill Rd. Palo Alto, CA 94304*. The emails you'll find on this dataset come from the email admininistrator and from people who'd sent non-legit emails. By other hand, legit emails come from personal emails and working emails. This dataset can be downloaded from: https://archive.ics.uci.edu/ml/datasets/spambase
 
-# Biblioraphy
+# Bibliography
 
 On this section you'll find all of the sources and resources which have made possible this project. That's why I'd like to leverage this section to thank all them
 
